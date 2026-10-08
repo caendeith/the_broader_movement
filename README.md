@@ -91,7 +91,7 @@ The Loop is not a punishment for poverty — it is a ladder out of it. Everyone 
 [![Movement](https://img.shields.io/badge/Movement-Broader-8A2BE2)](https://github.com/caendeith/the_broader_movement)
 [![Manifesto](https://img.shields.io/badge/Manifesto-v1.0-1E90FF)](BROADER_MANIFESTO.md)
 [![License](https://img.shields.io/badge/License-BROADER%20License-9400D3)](BROADER_LICENSE.md)
-[![Community](https://img.shields.io/badge/Community-Join%20us-7289DA)](https://github.com/caendeith/the_broader_movement/issues)
+[![Community](https://img.shields.io/badge/Community-Join%20us-7289DA)](https://github.com/caendeith/the_broader_movement/discussions)
 [![Library](https://img.shields.io/badge/Library-Broader%20Library-ff69b4)](BROADER_LIBRARY.md)
 [![Status](https://img.shields.io/badge/Status-Evergreen-success)]()
 [![Spec](https://img.shields.io/badge/Spec-BROADER%20SPEC%20v1.0-informational)](BROADER_SPEC.txt)
