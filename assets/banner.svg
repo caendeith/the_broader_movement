@@ -14,13 +14,8 @@
   <path d="M 144.00 75.29 A 144.00 144.00 0 0 1 351.32 150.75" fill="none" stroke="#FFC24B" stroke-width="25.0"/>
   <circle cx="144.00" cy="75.29" r="12.50" fill="#FFC24B"/>
   <polygon points="360.29,175.42 368.23,144.59 334.40,156.91" fill="#FFC24B"/>
-  <text x="216.00" y="200.00" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="700" font-size="190.00" fill="#F6F2FF" text-anchor="middle" dominant-baseline="central">B</text>
-  <text x="420" y="150" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif"
-        font-weight="700" font-size="108" fill="#F6F2FF">BROADER</text>
-  <text x="762" y="160" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif"
-        font-weight="600" font-size="54" fill="#ACA2D2">БРОДЕРСТВО</text>
-  <text x="420" y="262" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif"
-        font-weight="400" font-size="30" fill="#F6F2FF">Buy if you can  ·  Broad if you can't  ·  Pay, or Broad something of your own</text>
-  <text x="420" y="312" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif"
-        font-weight="400" font-size="25" fill="#ACA2D2">Купи, если можешь · Бродь, если не можешь · Заплати, либо забродь что-то своё</text>
+  <text x="216" y="200" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="700" font-size="190" fill="#F6F2FF" text-anchor="middle" dominant-baseline="central">B</text>
+  <text x="420" y="150" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="700" font-size="108" fill="#F6F2FF">BROADER</text>
+  <text x="762" y="160" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="600" font-size="54" fill="#ACA2D2">THE BROADER MOVEMENT</text>
+  <text x="420" y="282" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="400" font-size="30" fill="#F6F2FF">Buy if you can  ·  Broad if you can't  ·  Pay, or Broad something of your own</text>
 </svg>
