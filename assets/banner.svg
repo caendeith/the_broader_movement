@@ -4,19 +4,19 @@
     <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#783CD2" stop-opacity="0.5"/><stop offset="1" stop-color="#783CD2" stop-opacity="0"/></radialGradient>
   </defs>
   <rect x="0" y="0" width="1500" height="400" fill="url(#bg)"/>
-  <circle cx="1050" cy="200" r="460" fill="url(#glow)"/>
-  <path d="M 350.00 200.00 A 140.00 140.00 0 0 1 185.69 337.87" fill="none" stroke="#8A2BE2" stroke-width="23.0"/>
-  <circle cx="350.00" cy="200.00" r="11.50" fill="#8A2BE2"/>
-  <polygon points="161.91,333.68 182.81,354.18 188.56,321.56" fill="#8A2BE2"/>
-  <path d="M 140.00 321.24 A 140.00 140.00 0 0 1 102.75 110.01" fill="none" stroke="#FF4D8D" stroke-width="23.0"/>
-  <circle cx="140.00" cy="321.24" r="11.50" fill="#FF4D8D"/>
-  <polygon points="118.28,91.51 90.07,99.37 115.44,120.65" fill="#FF4D8D"/>
-  <path d="M 140.00 78.76 A 140.00 140.00 0 0 1 341.56 152.12" fill="none" stroke="#FFC24B" stroke-width="23.0"/>
-  <circle cx="140.00" cy="78.76" r="11.50" fill="#FFC24B"/>
-  <polygon points="349.82,174.81 357.12,146.45 326.00,157.78" fill="#FFC24B"/>
-  <text x="210" y="200" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="700" font-size="184" fill="#F6F2FF" text-anchor="middle" dominant-baseline="central">B</text>
-  <text x="410" y="137" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="700" font-size="94" fill="#F6F2FF">BROADER</text>
-  <text x="410" y="213" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="600" font-size="39" fill="#ACA2D2">THE BROADER MOVEMENT</text>
-  <text x="410" y="292" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="400" font-size="28" fill="#F6F2FF">Buy if you can  ·  Broad if you can't</text>
-  <text x="410" y="332" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="400" font-size="28" fill="#F6F2FF">Pay, or Broad something of your own</text>
+  <circle cx="1010" cy="200" r="440" fill="url(#glow)"/>
+  <path d="M 275.00 200.00 A 93.00 93.00 0 0 1 165.85 291.59" fill="none" stroke="#8A2BE2" stroke-width="18"/>
+  <circle cx="275.00" cy="200.00" r="9.00" fill="#8A2BE2"/>
+  <polygon points="147.24,288.31 163.60,304.35 168.10,278.82" fill="#8A2BE2"/>
+  <path d="M 135.50 280.54 A 93.00 93.00 0 0 1 110.76 140.22" fill="none" stroke="#FF4D8D" stroke-width="18"/>
+  <circle cx="135.50" cy="280.54" r="9.00" fill="#FF4D8D"/>
+  <polygon points="122.91,125.74 100.83,131.89 120.69,148.55" fill="#FF4D8D"/>
+  <path d="M 135.50 119.46 A 93.00 93.00 0 0 1 269.39 168.19" fill="none" stroke="#FFC24B" stroke-width="18"/>
+  <circle cx="135.50" cy="119.46" r="9.00" fill="#FFC24B"/>
+  <polygon points="275.86,185.95 281.57,163.76 257.21,172.62" fill="#FFC24B"/>
+  <text x="182.0" y="200" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="700" font-size="128" fill="#F6F2FF" text-anchor="middle" dominant-baseline="central">B</text>
+  <text x="366.0" y="136.9" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="700" font-size="118" fill="#F6F2FF">BROADER</text>
+  <text x="366.0" y="200.9" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="600" font-size="68" fill="#ACA2D2">THE BROADER MOVEMENT</text>
+  <text x="366.0" y="271.2" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="400" font-size="64" fill="#F6F2FF">Buy if you can  ·  Broad if you can't</text>
+  <text x="366.0" y="351.9" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="400" font-size="64" fill="#F6F2FF">Pay, or Broad something of your own</text>
 </svg>
