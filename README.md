@@ -109,14 +109,12 @@ The Loop is not a punishment for poverty — it is a ladder out of it. Everyone 
 
 ## 📦 Badges · Бейджи
 
-<!-- Replace `broaders/broader-movement` with your actual GitHub org/repo. -->
-
-[![Movement](https://img.shields.io/badge/Movement-Broader-8A2BE2)](https://github.com/broaders/broader-movement)
+[![Movement](https://img.shields.io/badge/Movement-Broader-8A2BE2)](https://github.com/caendeith/the_broader_movement)
 [![Manifesto](https://img.shields.io/badge/Manifesto-v1.0-1E90FF)](BROADER_MANIFESTO.md)
 [![License](https://img.shields.io/badge/License-BROADER%20License-9400D3)](BROADER_LICENSE.md)
-[![Community](https://img.shields.io/badge/Community-Join%20us-7289DA)](https://github.com/broaders/broader-movement/discussions)
+[![Community](https://img.shields.io/badge/Community-Join%20us-7289DA)](https://github.com/caendeith/the_broader_movement/discussions)
+[![Library](https://img.shields.io/badge/Library-Broader%20Library-ff69b4)](BROADER_LIBRARY.md)
 [![Status](https://img.shields.io/badge/Status-Evergreen-success)]()
-[![Built With](https://img.shields.io/badge/Built%20With-Solidarity-ff69b4)]()
 [![Spec](https://img.shields.io/badge/Spec-BROADER%20SPEC%20v1.0-informational)](BROADER_SPEC.txt)
 
 ---
@@ -139,6 +137,7 @@ We welcome Broaders of every skill level — writers, translators, lawyers, arti
    - 🖊️ *Docs & Translations* — improve, translate, localize any file.
    - ⚖️ *Legal* — refine [`BROADER_LICENSE.md`](BROADER_LICENSE.md).
    - 🎨 *Brand* — logos, banners, NFO art.
+   - 📚 *Library* — add your work to [`BROADER_LIBRARY.md`](BROADER_LIBRARY.md).
    - 📡 *Tooling* — release scripts, seed helpers, checksum tools.
 
 4. **Open a Pull Request** with a clear title and a short note on how it serves the Loop.
@@ -160,6 +159,7 @@ We welcome Broaders of every skill level — writers, translators, lawyers, arti
 | [`BROADER_MANIFESTO.md`](BROADER_MANIFESTO.md) | The philosophical heart. · Философское сердце. |
 | [`BROADER_SPEC.txt`](BROADER_SPEC.txt) | Copy-paste template for releases. · Шаблон для релизов. |
 | [`BROADER_LICENSE.md`](BROADER_LICENSE.md) | The social-contract license. · Лицензия общественного договора. |
+| [`BROADER_LIBRARY.md`](BROADER_LIBRARY.md) | Community catalog of works & authors. · Каталог произведений и авторов сообщества. |
 
 ---
 
@@ -172,9 +172,6 @@ We welcome Broaders of every skill level — writers, translators, lawyers, arti
 | Hero banner · Баннер | [`assets/banner.svg`](assets/banner.svg) · [`assets/banner.png`](assets/banner.png) |
 | Social preview · Превью для соцсетей | [`assets/og-image.png`](assets/og-image.png) |
 | Favicon · Фавиконка | [`assets/favicon.svg`](assets/favicon.svg) · [`assets/favicon-64.png`](assets/favicon-64.png) |
-
-Regenerate anytime: `python tools/generate_assets.py` (PNG) and `python tools/generate_svg.py` (SVG).
-Пересборка в любой момент: `python tools/generate_assets.py` (PNG) и `python tools/generate_svg.py` (SVG).
 
 ---
 
