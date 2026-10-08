@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 400" width="1500" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#201546"/><stop offset="1" stop-color="#090516"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#783CD2" stop-opacity="0.5"/><stop offset="1" stop-color="#783CD2" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="0" y="0" width="1500" height="400" fill="url(#bg)"/>
+  <circle cx="1050" cy="200" r="460" fill="url(#glow)"/>
+  <path d="M 360.00 200.00 A 144.00 144.00 0 0 1 190.99 341.81" fill="none" stroke="#8A2BE2" stroke-width="25.0"/>
+  <circle cx="360.00" cy="200.00" r="12.50" fill="#8A2BE2"/>
+  <polygon points="165.14,337.25 187.87,359.54 194.12,324.09" fill="#8A2BE2"/>
+  <path d="M 144.00 324.71 A 144.00 144.00 0 0 1 105.69 107.44" fill="none" stroke="#FF4D8D" stroke-width="25.0"/>
+  <circle cx="144.00" cy="324.71" r="12.50" fill="#FF4D8D"/>
+  <polygon points="122.56,87.33 91.90,95.87 119.48,119.01" fill="#FF4D8D"/>
+  <path d="M 144.00 75.29 A 144.00 144.00 0 0 1 351.32 150.75" fill="none" stroke="#FFC24B" stroke-width="25.0"/>
+  <circle cx="144.00" cy="75.29" r="12.50" fill="#FFC24B"/>
+  <polygon points="360.29,175.42 368.23,144.59 334.40,156.91" fill="#FFC24B"/>
+  <text x="216.00" y="200.00" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="700" font-size="190.00" fill="#F6F2FF" text-anchor="middle" dominant-baseline="central">B</text>
+  <text x="420" y="150" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif"
+        font-weight="700" font-size="108" fill="#F6F2FF">BROADER</text>
+  <text x="762" y="160" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif"
+        font-weight="600" font-size="54" fill="#ACA2D2">БРОДЕРСТВО</text>
+  <text x="420" y="262" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif"
+        font-weight="400" font-size="30" fill="#F6F2FF">Buy if you can  ·  Broad if you can't  ·  Pay, or Broad something of your own</text>
+  <text x="420" y="312" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif"
+        font-weight="400" font-size="25" fill="#ACA2D2">Купи, если можешь · Бродь, если не можешь · Заплати, либо забродь что-то своё</text>
+</svg>

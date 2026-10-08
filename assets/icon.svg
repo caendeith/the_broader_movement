@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#201546"/><stop offset="1" stop-color="#090516"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#783CD2" stop-opacity="0.55"/><stop offset="1" stop-color="#783CD2" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="0" y="0" width="512" height="512" rx="110" fill="url(#bg)"/>
+  <circle cx="256.00" cy="256.00" r="215" fill="url(#glow)"/>
+  <path d="M 410.00 256.00 A 154.00 154.00 0 0 1 229.26 407.66" fill="none" stroke="#8A2BE2" stroke-width="26.0"/>
+  <circle cx="410.00" cy="256.00" r="13.00" fill="#8A2BE2"/>
+  <polygon points="202.37,402.92 226.01,426.10 232.51,389.22" fill="#8A2BE2"/>
+  <path d="M 179.00 389.37 A 154.00 154.00 0 0 1 138.03 157.01" fill="none" stroke="#FF4D8D" stroke-width="26.0"/>
+  <circle cx="179.00" cy="389.37" r="13.00" fill="#FF4D8D"/>
+  <polygon points="155.58,136.10 123.69,144.98 152.37,169.04" fill="#FF4D8D"/>
+  <path d="M 179.00 122.63 A 154.00 154.00 0 0 1 400.71 203.33" fill="none" stroke="#FFC24B" stroke-width="26.0"/>
+  <circle cx="179.00" cy="122.63" r="13.00" fill="#FFC24B"/>
+  <polygon points="410.05,228.98 418.30,196.93 383.12,209.73" fill="#FFC24B"/>
+  <text x="256.00" y="256.00" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-weight="700" font-size="200.00" fill="#F6F2FF" text-anchor="middle" dominant-baseline="central">B</text>
+</svg>

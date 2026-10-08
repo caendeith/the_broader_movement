@@ -1,0 +1,53 @@
++================================================================+
+|                                                                |
+|    B R O A D E R   M O V E M E N T  .  B R O D E R S T V O     |
+|                                                                |
+|         "Buy if you can . Broad if you can't . Pay, or         |
+|                 Broad something of your own."                  |
+|                                                                |
+|         "Kupi, esli mozhesh . Brod', esli ne mozhesh .         |
+|              Zaplati, libo zabrod' chto-to svoe."              |
+|                                                                |
++================================================================+
+|                                                                |
+|  TITLE    : [ Exact title / Tochnoe nazvanie ]                 |
+|  TYPE     : [ Film / Music / Game / Book / Software / Other ]  |
+|  CREATOR  : [ Author / Studio / Artist -- always credit ]      |
+|  YEAR     : [ Year of release ]                                |
+|  LANGUAGE : [ Audio / Subtitle languages ]                     |
+|  QUALITY  : [ Format / Resolution / Bitrate ]                  |
+|  SIZE     : [ Size ]                                           |
+|  HASH     : [ SHA-256 / Checksum ]                             |
+|                                                                |
++----------------------------------------------------------------+
+|                                                                |
+|  This release is a BROAD, not a theft.                         |
+|  Etot reliz -- BROD, a ne krazha.                              |
+|                                                                |
+|  If you can afford it, BUY it officially.                      |
+|  Esli mozhesh' -- KUPI oficial'no.                             |
+|                                                                |
+|  If you can't, share it onward and keep the stream flowing.    |
+|  Esli net -- podelis' dal'she i sohrani potok.                 |
+|                                                                |
+|  When you rise, pay -- or Broad something of your own:         |
+|  buy the work, donate, or share your own creation.             |
+|  Kogda podnimesh'sya -- zaplati ili zabrod' chto-to svoe:      |
+|  kupi, pozhertvuy, ili podelis' svoim.                         |
+|                                                                |
++----------------------------------------------------------------+
+|                                                                |
+|  THE BROADER LOOP / CIKL BRODERA:                              |
+|                                                                |
+|    1. BUY if you can        . Kupi, esli mozhesh'              |
+|    2. BROAD if you can't    . Brod', esli ne mozhesh'          |
+|    3. PAY or BROAD          . Zaplati, libo zabrod'            |
+|       something of your own   chto-to svoe                     |
+|                                                                |
++----------------------------------------------------------------+
+|                                                                |
+|  License   : BROADER PUBLIC LICENSE 1.0 (BPL-1.0)              |
+|  Manifesto : BROADER_MANIFESTO.md                              |
+|  Community : #Broaders #Broderstvo #BroaderMovement            |
+|                                                                |
++================================================================+
